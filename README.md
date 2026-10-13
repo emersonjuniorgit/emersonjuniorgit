@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090B,35:172554,70:1D4ED8,100:38BDF8&text=EMERSON%20J%C3%9ANIOR&fontColor=FFFFFF&fontSize=42&fontAlignY=45&animation=fadeIn&stroke=60A5FA&strokeWidth=1&desc=JAVA%20BACKEND%20DEVELOPER&descSize=16&descAlignY=65&descColor=BFDBFE" alt="Emerson Júnior - Java Backend Developer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+solutions+with+Java;Turning+ideas+into+code;Learning%2C+building%2C+and+evolving." alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,35:172554,70:1D4ED8,100:38BDF8&text=EMERSON%20J%C3%9ANIOR&fontColor=FFFFFF&fontSize=42&fontAlignY=42&animation=fadeIn&stroke=60A5FA&strokeWidth=1&desc=JAVA%20BACKEND%20DEVELOPER&descSize=17&descAlignY=60&descColor=BFDBFE" alt="Emerson Júnior"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+coffee+into+Java+code;Learning+today%2C+building+tomorrow;From+logic+to+solutions%2C+one+commit+at+a+time;Consistency+builds+great+developers." alt="Animated phrases"/>
+
+<br/><br/>
 
 <a href="https://github.com/emersonjuniorgit">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -17,31 +19,29 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,postgres,git,github,idea,vscode&theme=dark" alt="Java, PostgreSQL, Git, GitHub, IntelliJ IDEA and VS Code"/>
+<img src="https://skillicons.dev/icons?i=java,postgres,git,github,idea,vscode&theme=dark" alt="Technologies and tools"/>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## 👨‍💻 About Me
 
-I'm an **Information Systems student at UNIEURO**, focused on Back-End Development with Java.
+> "Great software isn't built in a day. It's built one problem, one solution, and one commit at a time."
 
-I enjoy building applications, solving problems through code, and continuously improving my technical skills through practical projects.
+I'm an **Information Systems student at UNIEURO, currently in my 4th semester**, focused on building my career as a **Java Backend Developer**.
 
-- 🎓 Information Systems student.
-- ☕ Focused on Java development.
-- 🐘 Studying PostgreSQL and SQL.
-- 🛠️ Using Git and GitHub for version control.
-- 🚀 Exploring backend technologies and software development practices.
+I'm passionate about programming, problem-solving, and understanding how software works behind the scenes. I believe that consistent practice, curiosity, and a solid technical foundation are essential to becoming a better developer.
+
+- 🎓 **Degree:** Information Systems — 4th semester at UNIEURO.
+- ☕ **Main language:** Java.
+- 🐘 **Database:** PostgreSQL and SQL.
+- 🛠️ **Tools:** Git, GitHub, IntelliJ IDEA, and VS Code.
+- 🚀 **Current focus:** Backend development and practical projects.
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages & Database
 
@@ -51,9 +51,9 @@ I enjoy building applications, solving problems through code, and continuously i
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Relational%20Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database%20Management-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 
 </div>
 
@@ -67,42 +67,32 @@ I enjoy building applications, solving problems through code, and continuously i
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/emersonjuniorgit/java-bank-account">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emersonjuniorgit&repo=java-bank-account&theme=github_dark&hide_border=true" alt="Java Bank Account project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emersonjuniorgit&repo=java-bank-account&theme=github_dark&hide_border=true" alt="Java Bank Account"/>
 </a>
 
 </div>
 
-### 🏦 Java Bank Account
+### ☕ Java Bank Account
 
-A banking system simulation developed in Java to practice programming and implement banking operations.
+A banking system simulation developed in Java to practice programming fundamentals and implement banking operations.
 
-**Highlights:**
+**Project highlights:**
 - Account management.
 - Deposits and withdrawals.
 - Bill payments.
-- Input validation and business rules.
-- Application structure using Java.
-
-**Technology:** Java.
-
-<div align="center">
+- Business rules and input validation.
+- Structured application development.
 
 <a href="https://github.com/emersonjuniorgit/java-bank-account">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+  <img src="https://img.shields.io/badge/Explore%20Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
 </a>
 
-</div>
-
 ---
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
 
 ## 📚 Currently Learning
 
@@ -110,24 +100,22 @@ A banking system simulation developed in Java to practice programming and implem
 
 | Technology | Focus |
 |:---:|---|
-| ☕ **Java** | Programming and backend application development |
-| 🐘 **PostgreSQL** | SQL, relational databases, and data modeling |
-| 🔧 **Git & GitHub** | Version control and project management |
-| 🚀 **Backend Development** | APIs, application architecture, and development practices |
+| ☕ Java | Writing structured code and developing applications |
+| 🐘 PostgreSQL | SQL queries, relational databases, and data modeling |
+| 🔧 Git & GitHub | Version control and project organization |
+| 🚀 Backend Development | Building a strong foundation for backend applications |
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=emersonjuniorgit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjuniorgit&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjuniorgit&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages"/>
 
 <br/><br/>
 
@@ -137,36 +125,40 @@ A banking system simulation developed in Java to practice programming and implem
 
 ---
 
-<!-- ==================== CAREER GOALS ==================== -->
+## 🎯 The Road Ahead
 
-## 🎯 Career Goals
+> "Don't just learn to code. Learn to think, solve problems, and build things that matter."
 
-- Strengthen my Java development skills.
-- Develop backend applications connected to PostgreSQL.
-- Learn Spring Boot and REST APIs.
-- Improve software design and code quality.
-- Explore cloud computing and DevOps.
+My goal is to become a well-rounded Java Backend Developer, capable of designing and building reliable, maintainable, and scalable applications.
+
+- ☕ Deepen my Java knowledge.
+- 🐘 Build applications integrated with PostgreSQL.
+- 🌱 Learn Spring Boot and REST APIs.
+- 🧪 Improve my knowledge of software testing.
+- ☁️ Explore cloud computing and DevOps.
+
+**One step at a time. One project at a time. Always moving forward.**
 
 ---
-
-<!-- ==================== CONTACT ==================== -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/emersonjuniorgit">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/emerson-jr">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:09090B&height=120&section=footer" alt="Blue gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:09090B&height=130&section=footer" alt="Footer banner"/>
 
-**Building my future, one commit at a time. ☕**
+### 💻 "Every expert was once a beginner who refused to give up."
+
+<sub>Building my future, one commit at a time. ☕</sub>
 
 </div>
